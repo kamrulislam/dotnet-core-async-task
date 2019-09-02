@@ -1,0 +1,8 @@
+[Bb]in/
+[Oo]bj/
+generate-input/node_modules
+working-directory/raw/*
+working-directory/curated/*
+working-directory/exception/*
+
+
