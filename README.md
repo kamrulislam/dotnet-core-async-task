@@ -1,6 +1,6 @@
 # Dotnet Core Async Task
 
-The task I am trying to do here can be found [here](./Hawkeye_Test.dockx). It had some open-ended path which I have to take some assumptions. 
+The task I am trying to do here can be found [here](./Hawkeye_Test.docx). It had some open-ended path which I have to take some assumptions. 
 
 I am listing my questions below.
 
