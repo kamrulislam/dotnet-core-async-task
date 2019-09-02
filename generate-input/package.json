@@ -1,0 +1,15 @@
+{
+  "name": "generate-input",
+  "version": "1.0.0",
+  "description": "",
+  "main": "generate-input.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "generateInput": "rm -f ../myApp/working-directory/exception/*.json* && rm -f ../myApp/working-directory/curated/*.json* && rm -f ../myApp/working-directory/raw/*.json* && rm -f ../myApp/working-directory/input/*.json* && node generate-input.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "moment": "^2.24.0"
+  }
+}
